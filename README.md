@@ -1,2 +1,2 @@
 # mem_stat
-python to stat android mem
+Android，根据进程名字统计内存PSS
